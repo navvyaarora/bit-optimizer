@@ -46,5 +46,3 @@ python bid_optimizer.py
 | `bid_optimization_results.csv` | Per-episode reward log (Power BI ready) |
 | `policy_table.csv` | Optimal bid per segment × placement |
 
-## Connection to Siemens
-Siemens applies reinforcement learning to industrial optimization problems (energy grids, manufacturing scheduling, resource allocation). This project demonstrates the same core RL loop — state, action, reward, policy — applied to a business domain.
